@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <Database>
-	<address>127.0.0.1</address>
-	<username>kitsune</username>
-	<password>zMTFpF23yZcYprRj</password>
-	<name>kitsune</name>
+	<address>localhost</address>
+	<username>id3418389_test</username>
+	<password>test1234</password>
+	<name>id3418389_test</name>
 </Database>
